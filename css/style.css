@@ -1039,7 +1039,26 @@ a.popup-with-zoom-anim {
 	outline: none;
 }
 
+a.btn-book-now{
+	padding: 10px 30px;
+	/*-- w3layouts --*/
+	/*-- agileits --*/
+	background-color: #333;
+	color: #EEE;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 700;
+	border: none;
+	outline: none;
+}
+
 a.popup-with-zoom-anim:hover {
+	padding: 12px 45px;
+	font-size: 16px;
+	background-color: #E91E63;
+	color: #FFF;
+}
+
+a.btn-book-now:hover {
 	padding: 12px 45px;
 	font-size: 16px;
 	background-color: #E91E63;
@@ -2680,6 +2699,12 @@ address {
 		padding: 8px 30px;
 		font-weight: 100;
 	}
+
+	a.btn-book-now {
+		padding: 8px 30px;
+		font-weight: 100;
+	}
+
 	div#small-dialog {
 		width: 70%;
 	}
@@ -3156,6 +3181,12 @@ address {
 		padding: 10px 35px;
 		font-size: 15px;
 	}
+
+	a.btn-book-now:hover {
+		padding: 10px 35px;
+		font-size: 15px;
+	}
+
 	.agilesocialwthree ul.social-icons li {
 		width: 13.8%;
 		padding: 20px 0;
@@ -3356,6 +3387,12 @@ address {
 		padding: 8px 30px;
 		font-size: 14px;
 	}
+
+	a.btn-book-now:hover {
+		padding: 8px 30px;
+		font-size: 14px;
+	}
+
 	.agilesocialwthree ul.social-icons li {
 		width: 13.7%;
 	}
@@ -3395,6 +3432,12 @@ address {
 		padding: 8px 25px;
 		font-size: 12px;
 	}
+
+	a.btn-book-now {
+		padding: 8px 25px;
+		font-size: 12px;
+	}
+
 	div#small-dialog {
 		width: 90%;
 		height: 575px;
